@@ -1,2 +1,2 @@
-# Lukion_Pitka_matematiikka_13
+# Lukion Pitka matematiikka 13
 Tavoitteena on lisäillä tänne kurssin aikan tulleita kaavoja
